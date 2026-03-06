@@ -2,7 +2,7 @@
 A data analytics project exploring regional, product, and category‑level sales trends using **Python, Pandas, Matplotlib, and Seaborn.**
 
 ## Project Overview
-This project explores a **sales dataset** containing transaction records from **January to April 2024** across multiple regions, product types, and categories. The raw data initially included inconsistencies, formatting issues, and duplicated values, which were **cleaned and standardised** to create a reliable foundation for analysis. After preparing the dataset, the project applies **visual exploratory data analysis (EDA) to uncover patterns in sales performance, profit margins, and product demand**. The findings highlight regional differences, product‑level trends, and time‑based sales behaviour, offering insights that can **support reporting, forecasting, and strategic decision‑making.**
+This project explores a **sales dataset** containing transaction records from **January to April 2024** across multiple regions, product types, and categories. **The raw data initially included inconsistencies, formatting issues, and duplicated values**, which were **cleaned and standardised** to create a reliable foundation for analysis. After preparing the dataset, the project applies **visual exploratory data analysis (EDA) to uncover patterns in sales performance, profit margins, and product demand**. The findings highlight regional differences, product‑level trends, and time‑based sales behaviour, offering insights that can **support reporting, forecasting, and strategic decision‑making.**
 
 ### Dataset Summary Table
 The dataset includes the following fields:
