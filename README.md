@@ -45,6 +45,6 @@ Scatterplot illustrating the relationship between units sold and revenue, colore
 - **North and South** regions show the strongest sales performance.
 - **Tablets and Laptops** dominate total sales across the dataset.
 - **Electronics** account for the majority of revenue.
-- Sales show a **steady upward trend** from January to April.
+- **Sales** show a **steady upward trend** from January to April.
 - **Profit margins cluster between 8-15%**, with some products consistently outperforming others.
 - **Higher units sold** generally correlate with higher revenue, especially in the Gadgets category.
