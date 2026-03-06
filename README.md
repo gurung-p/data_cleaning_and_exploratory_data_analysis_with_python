@@ -1,4 +1,4 @@
-## Sales Performance Analysis (2024)
+## Sales Performance Analysis
 A data analytics project exploring regional, product, and category‑level sales trends using Python, Pandas, Matplotlib, and Seaborn.
 
 ## Project Overview
