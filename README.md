@@ -30,11 +30,15 @@ The dataset includes the following fields:
 A bar chart summarising which regions generated the highest total sales.
 <img width="600" height="466" alt="image" src="https://github.com/user-attachments/assets/c077996a-bde5-4bb0-a10b-2bf705a8acf1" />
 
-3. **Total Sales by Product:**
+2. **Total Sales by Product:**
 Comparison of product performance across all transactions.
-4. **Sales by Category:**
+<img width="569" height="396" alt="image" src="https://github.com/user-attachments/assets/948eda2c-98e8-462e-82f2-887a92ba79ba" />
+
+3. **Sales by Category:**
 A pie chart showing the share of sales between Electronics and Gadgets.
-5. **Monthly Sales Trend:**
+<img width="458" height="410" alt="image" src="https://github.com/user-attachments/assets/a637bfd1-5ea7-4944-b256-d92de8c7dce0" />
+
+4. **Monthly Sales Trend:**
 Time‑series analysis of total sales from January to April 2024.
 6. **Daily Sales Trend:**
 Line plot showing fluctuations in daily sales.
