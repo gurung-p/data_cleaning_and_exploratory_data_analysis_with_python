@@ -41,12 +41,19 @@ A pie chart showing the share of sales between Electronics and Gadgets.
 
 4. **Monthly Sales Trend:**
 Time‑series analysis of total sales from January to April 2024.
-6. **Daily Sales Trend:**
-Line plot showing fluctuations in daily sales.
-7. **Profit Margin Distribution:**
+<img width="581" height="335" alt="image" src="https://github.com/user-attachments/assets/af1326f6-26a1-4cd8-b958-25c9ed270472" />
+
+5. **Sales Trend Over Time:**
+Line plot showing fluctuations in sales.
+<img width="593" height="451" alt="image" src="https://github.com/user-attachments/assets/873b7dcc-1215-403c-a0da-48517c1ae4af" />
+
+6. **Profit Margin Distribution:**
 Histogram + KDE curve showing how profit margins vary across products.
-8. **Units Sold vs Total Sales:**
+<img width="535" height="396" alt="image" src="https://github.com/user-attachments/assets/4463a708-3bb4-4afd-bf0e-1a1e87011a82" />
+
+7. **Units Sold vs Total Sales:**
 Scatterplot illustrating the relationship between units sold and revenue, colored by category.
+<img width="561" height="396" alt="image" src="https://github.com/user-attachments/assets/094f9203-6baa-4e89-b2c2-df6d9b8ccd72" />
 
 ## Key Insights
 - **North and South** regions show the strongest sales performance.
