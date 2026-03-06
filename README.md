@@ -9,27 +9,18 @@ This project explores a sales dataset containing transaction records from Januar
 A clean, structured table version of your dataset summary looks like this:
 
 ### Dataset Summary Table
+The dataset includes the following fields:
 
 | **Field**            | **Description** |
 |----------------------|-----------------|
 | **Date**             | Transaction date |
-| **Region**           | Geographic sales region: North, South, East, or West |
-| **Product**          | Item sold: Laptop, Tablet, Phone, Desktop, or Monitor |
-| **Category**         | Product classification: Electronics or Gadgets |
+| **Region**           | Geographic sales region: North, South, East, West |
+| **Product**          | Item sold: Laptop, Tablet, Phone, Desktop, Monitor |
+| **Category**         | Product classification: Electronics, Gadgets |
 | **Units Sold**       | Number of units sold in the transaction |
 | **Unit Price**       | Selling price per individual unit |
 | **Total Sales**      | Total revenue from the transaction (Units Sold × Unit Price) |
 | **Profit Margin (%)**| Percentage of revenue retained as profit after costs |
-
-The dataset includes the following fields:
-- Date: Transaction date
-- Region: North, South, East, West
-- Product: Laptop, Tablet, Phone, Desktop, Monitor
-- Category: Electronics or Gadgets
-- Units Sold
-- Unit Price
-- Total Sales
-- Profit Margin (%)
 
 ## Tools & Libraries
 - Python
