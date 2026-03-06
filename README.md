@@ -26,9 +26,9 @@ The dataset includes the following fields:
 - Seaborn
 
 ## Exploratory Data Analysis (EDA)
-**1. Total Sales by Region:**
+1. **Total Sales by Region:**
 A bar chart summarizing which regions generated the highest total sales.
-**2. Total Sales by Product:**
+2. **Total Sales by Product:**
 Comparison of product performance across all transactions.
 3. **Sales by Category:**
 A pie chart showing the share of sales between Electronics and Gadgets.
