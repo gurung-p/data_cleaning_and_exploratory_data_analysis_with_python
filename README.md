@@ -36,6 +36,7 @@ A bar chart summarising which regions generated the highest total sales.
 <br>
 <br>
 <br>
+
 2. **Total Sales by Product:**
 Comparison of product performance across all transactions.
 <img width="569" height="396" alt="image" src="https://github.com/user-attachments/assets/948eda2c-98e8-462e-82f2-887a92ba79ba" />
