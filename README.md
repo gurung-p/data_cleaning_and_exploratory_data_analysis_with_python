@@ -27,7 +27,7 @@ The dataset includes the following fields:
 
 ## Exploratory Data Analysis (EDA)
 1. **Total Sales by Region:**
-A bar chart summarizing which regions generated the highest total sales.
+A bar chart summarising which regions generated the highest total sales.
 2. **Total Sales by Product:**
 Comparison of product performance across all transactions.
 3. **Sales by Category:**
