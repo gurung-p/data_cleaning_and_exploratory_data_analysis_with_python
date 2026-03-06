@@ -1,15 +1,13 @@
 ## Sales Performance Analysis (2024)
 A data analytics project exploring regional, product, and category‑level sales trends using Python, Pandas, Matplotlib, and Seaborn.
 
-
 ## Project Overview
 This project explores a sales dataset containing transaction records from January to April 2024 across multiple regions, product types, and categories. The raw data initially included inconsistencies, formatting issues, and duplicated values, which were cleaned and standardized to create a reliable foundation for analysis. After preparing the dataset, the project applies visual exploratory data analysis (EDA) to uncover patterns in sales performance, profit margins, and product demand. The findings highlight regional differences, product‑level trends, and time‑based sales behaviour, offering insights that can support reporting, forecasting, and strategic decision‑making.
-
 
 ### Dataset Summary Table
 The dataset includes the following fields:
 
-| *Field*            | **Description** |
+|**Field**             | **Description** |
 |----------------------|-----------------|
 | **Date**             | Transaction date |
 | **Region**           | Geographic sales region: North, South, East, West |
@@ -20,7 +18,6 @@ The dataset includes the following fields:
 | **Total Sales**      | Total revenue from the transaction (Units Sold × Unit Price) |
 | **Profit Margin (%)**| Percentage of revenue retained as profit after costs |
 
-
 ## Tools & Libraries
 - Python
 - Pandas
@@ -28,7 +25,6 @@ The dataset includes the following fields:
 - Matplotlib
 - Seaborn
 
-  
 ## Exploratory Data Analysis (EDA)
 1. Total Sales by Region
 A bar chart summarizing which regions generated the highest total sales.
@@ -44,7 +40,6 @@ Line plot showing fluctuations in daily sales.
 Histogram + KDE curve showing how profit margins vary across products.
 7. Units Sold vs Total Sales
 Scatterplot illustrating the relationship between units sold and revenue, colored by category.
-
 
 ## Key Insights
 - North and South regions show the strongest sales performance.
