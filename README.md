@@ -6,7 +6,7 @@ This project explores a **sales dataset** containing transaction records from **
 
 - Dirty sales data can be found [here](dirty_sales_data.csv)
 - Data cleaning and EDA python file can be found [here](sales_performance_analysis.ipynb)
-- Clean sales data can be found [here]()
+- Clean sales data can be found [here](cleaned_sales_data.csv)
 
 ### Dataset Summary Table
 The dataset includes the following fields:
