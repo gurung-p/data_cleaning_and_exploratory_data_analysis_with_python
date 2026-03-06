@@ -4,7 +4,9 @@ A data analytics project exploring regional, product, and category‑level sales
 ## Project Overview
 This project explores a **sales dataset** containing transaction records from **January to April 2024** across multiple regions, product types, and categories. **The raw data initially included inconsistencies, formatting issues, and duplicated values**, which were **cleaned and standardised** to create a reliable foundation for analysis. After preparing the dataset, the project applies **visual exploratory data analysis (EDA) to uncover patterns in sales performance, profit margins, and product demand**. The findings highlight regional differences, product‑level trends, and time‑based sales behaviour, offering insights that can **support reporting, forecasting, and strategic decision‑making.**
 
-Data cleaning and EDA python file can be found [here](sales_performance_analysis.ipynb)
+- Dirty sales data can be found [here](dirty_sales_data.csv)
+- Data cleaning and EDA python file can be found [here](sales_performance_analysis.ipynb)
+- Clean sales data can be found [here]()
 
 ### Dataset Summary Table
 The dataset includes the following fields:
