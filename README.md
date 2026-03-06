@@ -4,7 +4,23 @@ A data analytics project exploring regional, product, and category‑level sales
 ## Project Overview
 This project explores a sales dataset containing transaction records from January to April 2024 across multiple regions, product types, and categories. The raw data initially included inconsistencies, formatting issues, and duplicated values, which were cleaned and standardized to create a reliable foundation for analysis. After preparing the dataset, the project applies visual exploratory data analysis (EDA) to uncover patterns in sales performance, profit margins, and product demand. The findings highlight regional differences, product‑level trends, and time‑based sales behaviour, offering insights that can support reporting, forecasting, and strategic decision‑making.
 
+
 ## Dataset Summary
+A clean, structured table version of your dataset summary looks like this:
+
+### Dataset Summary Table
+
+| **Field**            | **Description** |
+|----------------------|-----------------|
+| **Date**             | Transaction date |
+| **Region**           | Geographic sales region: North, South, East, or West |
+| **Product**          | Item sold: Laptop, Tablet, Phone, Desktop, or Monitor |
+| **Category**         | Product classification: Electronics or Gadgets |
+| **Units Sold**       | Number of units sold in the transaction |
+| **Unit Price**       | Selling price per individual unit |
+| **Total Sales**      | Total revenue from the transaction (Units Sold × Unit Price) |
+| **Profit Margin (%)**| Percentage of revenue retained as profit after costs |
+
 The dataset includes the following fields:
 - Date: Transaction date
 - Region: North, South, East, West
