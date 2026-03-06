@@ -28,17 +28,19 @@ The dataset includes the following fields:
 ## Exploratory Data Analysis (EDA)
 1. **Total Sales by Region:**
 A bar chart summarising which regions generated the highest total sales.
-2. **Total Sales by Product:**
+<img width="600" height="466" alt="image" src="https://github.com/user-attachments/assets/c077996a-bde5-4bb0-a10b-2bf705a8acf1" />
+
+3. **Total Sales by Product:**
 Comparison of product performance across all transactions.
-3. **Sales by Category:**
+4. **Sales by Category:**
 A pie chart showing the share of sales between Electronics and Gadgets.
-4. **Monthly Sales Trend:**
+5. **Monthly Sales Trend:**
 Time‑series analysis of total sales from January to April 2024.
-5. **Daily Sales Trend:**
+6. **Daily Sales Trend:**
 Line plot showing fluctuations in daily sales.
-6. **Profit Margin Distribution:**
+7. **Profit Margin Distribution:**
 Histogram + KDE curve showing how profit margins vary across products.
-7. **Units Sold vs Total Sales:**
+8. **Units Sold vs Total Sales:**
 Scatterplot illustrating the relationship between units sold and revenue, colored by category.
 
 ## Key Insights
