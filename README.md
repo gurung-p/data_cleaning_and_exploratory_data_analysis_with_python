@@ -30,6 +30,7 @@ The dataset includes the following fields:
 A bar chart summarising which regions generated the highest total sales.
 <img width="600" height="466" alt="image" src="https://github.com/user-attachments/assets/c077996a-bde5-4bb0-a10b-2bf705a8acf1" />
 
+
 2. **Total Sales by Product:**
 Comparison of product performance across all transactions.
 <img width="569" height="396" alt="image" src="https://github.com/user-attachments/assets/948eda2c-98e8-462e-82f2-887a92ba79ba" />
