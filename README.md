@@ -6,22 +6,23 @@ This project explores a sales dataset containing transaction records from Januar
 
 ## Dataset Summary
 - The dataset includes the following fields:
-- Date — Transaction date
-- Region — North, South, East, West
-- Product — Laptop, Tablet, Phone, Desktop, Monitor
-- Category — Electronics or Gadgets
+- Date: Transaction date
+- Region: North, South, East, West
+- Product: Laptop, Tablet, Phone, Desktop, Monitor
+- Category: Electronics or Gadgets
 - Units Sold
 - Unit Price
 - Total Sales
 - Profit Margin (%)
 
-Tools & Libraries
-	Python
-	Pandas
-	NumPy
-	Matplotlib
-	Seaborn
-Exploratory Data Analysis (EDA)
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+  
+## Exploratory Data Analysis (EDA)
 1. Total Sales by Region
 A bar chart summarizing which regions generated the highest total sales.
 2. Total Sales by Product
@@ -37,10 +38,10 @@ Histogram + KDE curve showing how profit margins vary across products.
 7. Units Sold vs Total Sales
 Scatterplot illustrating the relationship between units sold and revenue, colored by category.
 
-Key Insights
-	North and South regions show the strongest sales performance.
-	Tablets and Laptops dominate total sales across the dataset.
-	Electronics account for the majority of revenue.
-	Sales show a steady upward trend from January to April.
-	Profit margins cluster between 8–15%, with some products consistently outperforming others.
-	Higher units sold generally correlate with higher revenue, especially in the Gadgets category.
+## Key Insights
+- North and South regions show the strongest sales performance.
+- Tablets and Laptops dominate total sales across the dataset.
+- Electronics account for the majority of revenue.
+- Sales show a steady upward trend from January to April.
+- Profit margins cluster between 8–15%, with some products consistently outperforming others.
+- Higher units sold generally correlate with higher revenue, especially in the Gadgets category.
