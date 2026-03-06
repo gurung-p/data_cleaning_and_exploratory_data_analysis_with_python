@@ -54,6 +54,9 @@ A pie chart showing the share of sales between Electronics and Gadgets.
 4. **Monthly Sales Trend:**
 Time‑series analysis of total sales from January to April 2024.
 <img width="581" height="335" alt="image" src="https://github.com/user-attachments/assets/af1326f6-26a1-4cd8-b958-25c9ed270472" />
+<br>
+<br>
+<br>
 
 5. **Sales Trend Over Time:**
 Line plot showing fluctuations in sales.
@@ -72,7 +75,6 @@ Histogram + KDE curve showing how profit margins vary across products.
 7. **Units Sold vs Total Sales:**
 Scatterplot illustrating the relationship between units sold and revenue, colored by category.
 <img width="561" height="396" alt="image" src="https://github.com/user-attachments/assets/094f9203-6baa-4e89-b2c2-df6d9b8ccd72" />
-<br>
 <br>
 <br>
 
