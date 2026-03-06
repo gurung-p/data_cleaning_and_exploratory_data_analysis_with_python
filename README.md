@@ -40,10 +40,16 @@ A bar chart summarising which regions generated the highest total sales.
 2. **Total Sales by Product:**
 Comparison of product performance across all transactions.
 <img width="569" height="396" alt="image" src="https://github.com/user-attachments/assets/948eda2c-98e8-462e-82f2-887a92ba79ba" />
+<br>
+<br>
+<br>
 
 3. **Sales by Category:**
 A pie chart showing the share of sales between Electronics and Gadgets.
 <img width="458" height="410" alt="image" src="https://github.com/user-attachments/assets/a637bfd1-5ea7-4944-b256-d92de8c7dce0" />
+<br>
+<br>
+<br>
 
 4. **Monthly Sales Trend:**
 Time‑series analysis of total sales from January to April 2024.
@@ -52,14 +58,23 @@ Time‑series analysis of total sales from January to April 2024.
 5. **Sales Trend Over Time:**
 Line plot showing fluctuations in sales.
 <img width="593" height="451" alt="image" src="https://github.com/user-attachments/assets/873b7dcc-1215-403c-a0da-48517c1ae4af" />
+<br>
+<br>
+<br>
 
 6. **Profit Margin Distribution:**
 Histogram + KDE curve showing how profit margins vary across products.
 <img width="535" height="396" alt="image" src="https://github.com/user-attachments/assets/4463a708-3bb4-4afd-bf0e-1a1e87011a82" />
+<br>
+<br>
+<br>
 
 7. **Units Sold vs Total Sales:**
 Scatterplot illustrating the relationship between units sold and revenue, colored by category.
 <img width="561" height="396" alt="image" src="https://github.com/user-attachments/assets/094f9203-6baa-4e89-b2c2-df6d9b8ccd72" />
+<br>
+<br>
+<br>
 
 ## Key Insights
 - **North and South** regions show the strongest sales performance.
